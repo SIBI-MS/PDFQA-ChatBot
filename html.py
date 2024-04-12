@@ -25,7 +25,7 @@ css = '''
 }
 '''
 
-bot_template = '''
+bot = '''
 <div class="chat-message bot">
     <div class="avatar">
         <img src="">
@@ -34,7 +34,7 @@ bot_template = '''
 </div>
 '''
 
-user_template = '''
+user = '''
 <div class="chat-message user">
     <div class="avatar">
         <img src="">
