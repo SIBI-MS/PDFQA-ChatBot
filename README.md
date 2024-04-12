@@ -4,7 +4,6 @@
 This is an open-source chatbot designed for handling questions related to uploaded PDF files. It utilizes Langchain and Hugging Face models for natural language processing and provides a user-friendly interface powered by Streamlit.
 
 ![pdfqa](pdfqa.png)
-![Screenshot 2](/path/to/screenshot2.png)
 
 ## How to Use
 1. Install dependencies using pip:
