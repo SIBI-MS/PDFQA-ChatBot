@@ -3,7 +3,7 @@
 ## About
 This is an open-source chatbot designed for handling questions related to uploaded PDF files. It utilizes Langchain and Hugging Face models for natural language processing and provides a user-friendly interface powered by Streamlit.
 
-![Screenshot 1](/path/to/screenshot1.png)
+![pdfqa](/path/to/pdfqa.png)
 ![Screenshot 2](/path/to/screenshot2.png)
 
 ## How to Use
