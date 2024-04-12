@@ -9,7 +9,7 @@ from sentence_transformers import SentenceTransformer
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.llms import HuggingFaceHub
-from htmltemplate import css,bot_template,user_template
+from html import css,bot,user
 
 
 load_dotenv()
