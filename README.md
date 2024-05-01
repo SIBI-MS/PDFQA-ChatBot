@@ -1,7 +1,7 @@
 # PDFQA-ChatBot
 
 ## About
-PDFQA📕 open-source chatbot designed for handling questions related to uploaded PDF files. It utilizes Langchain and Hugging Face models for natural language processing and provides a user-friendly interface powered by Streamlit.
+PDFQA📕 open-source chatbot designed for handling questions related to uploaded PDF files. It utilizes RAG, Langchain and Hugging Face models for natural language processing and provides a user-friendly interface powered by Streamlit.
 
 ![pdfqa](pdfqa.png)
 
@@ -27,8 +27,8 @@ PDFQA📕 open-source chatbot designed for handling questions related to uploade
 
 ## Models
 - **Language Model**: Hugging Face's model
-- **Model Name**: tiiuae/falcon-7b-instruct
-- **Embeddings Model**: hkunlp/instructor-xl
+- **Model Name**: tiiuae/falcon-7b-instruct / phi3
+- **Embeddings Model**: hkunlp/instructor-xl / BAAI/bge-small-en-v1.5
 
 ## User Interface
 The chatbot is built with Streamlit, providing an intuitive interface for interacting with the bot and uploading PDF files.
