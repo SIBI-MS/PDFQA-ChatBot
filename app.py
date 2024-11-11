@@ -22,7 +22,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 load_dotenv()
 # GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
-GOOGLE_API_KEY = "AIzaSyDTXmOEOdQpjZ2-ld03cDUSBTMbZ9jR4uE"
+GOOGLE_API_KEY = ""
 
 # HuggingFace API Key
 HUGGINGFACE_API_KEY = os.getenv("HUGGINGFACEHUB_API_KEY")
